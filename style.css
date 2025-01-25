@@ -7,11 +7,6 @@ h4 {
   font-weight: bold;
 }
 
-.flex-grow-1 p.mb-1 {
-  max-width: 200px;    
-  word-wrap: break-word;
-}
-
 .logo {
   width: 200px;
   height: auto;
